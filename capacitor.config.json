@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "social-login",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
